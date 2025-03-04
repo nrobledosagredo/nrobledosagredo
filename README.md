@@ -1,9 +1,10 @@
 ## Hi, I'm Nicolás 👋
-I am a Computer Science Engineer (equivalent to a B.S. in Computer Science) from Austral University of Chile, graduated in 2024. Currently focused on a career in software development, with an emphasis on full-stack development and cloud computing.
+I am a Computer Science Engineer from Austral University of Chile, graduated in 2024. I currently work as a software developer, specializing in fullstack development and cloud computing.
 
 ## Currently learning
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
