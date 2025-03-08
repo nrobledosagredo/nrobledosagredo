@@ -1,5 +1,5 @@
 ## Hi, I'm Nicolás 👋
-I am a Computer Science Engineer from Austral University of Chile, graduated in 2024. I currently work as a software developer, specializing in fullstack development and cloud computing.
+I am a Computer Science Engineer from Austral University of Chile. I currently work as a software engineer, specializing in full-stack development and cloud computing.
 
 ## Currently learning
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
