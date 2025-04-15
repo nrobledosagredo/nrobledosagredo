@@ -1,5 +1,5 @@
 ## Hi, I'm Nicolás 👋
-I am a Computer Science Engineer from the Austral University of Chile, currently working as a Project Engineer with a strong focus on Software Engineering.
+I am a Computer Science Engineer from the Austral University of Chile. I currently work as a Project Engineer, with a strong focus on Software Engineering.
 
 ## Currently learning
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
